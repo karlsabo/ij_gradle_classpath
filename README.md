@@ -1,4 +1,5 @@
 IntelliJ version:
+```text
 IntelliJ IDEA 2019.2 (Ultimate Edition)
 Build #IU-192.5728.98, built on July 22, 2019
 Licensed to ********
@@ -11,6 +12,7 @@ Memory: 1981M
 Cores: 8
 Registry: git.explicit.commit.renames.prohibit.multiple.calls=false
 Non-Bundled Plugins: 
+```
 
 If you create an IntelliJ run configuration with demo.app.App as the "Main class:" then the classpath is not set correctly when "Use classpath of module" is set to ResourceProject.main. See runConfigurations/App.xml:
 ```text
