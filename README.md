@@ -1,3 +1,10 @@
+Example output from Gradle application run:
+```text
+> Task :ResourceProject:run
+Classpath=C:\Users\ksabo\git\ij_gradle_classpath\ResourceProject\build\classes\java\main;C:\Users\ksabo\git\ij_gradle_classpath\ResourceProject\build\resources\main;C:\Users\ksabo\git\ij_gradle_classpath\MainProject\build\libs\MainProject.jar
+Everything ran a-ok!
+```
+
 IntelliJ version:
 ```text
 IntelliJ IDEA 2019.2 (Ultimate Edition)
