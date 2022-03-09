@@ -11,5 +11,6 @@ public class App {
             throw new RuntimeException("Couldn't find resource " + resourceName);
         }
         System.out.println("Everything ran a-ok!");
+        System.out.println("Hello moto");
     }
 }
